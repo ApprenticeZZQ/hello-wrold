@@ -1,3 +1,6 @@
+int g_flag=1;
+
+
 #define USER_NAME_LEN 50
 #define PASSWORD_LEN 50
 class Login{
@@ -18,6 +21,5 @@ int func_liu(){
 }
 int func_zhang(){
 	printf("func_zhang);
-
 int main(){
 }
