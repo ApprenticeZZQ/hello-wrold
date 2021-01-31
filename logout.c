@@ -15,3 +15,6 @@ int log_func() {
 int log_func2(){
 	printf("log_func2"_);
 }
+int log_func3(){
+	printf("log_func3");
+}
