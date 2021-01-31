@@ -21,3 +21,11 @@ int log_func3(){
 int log_func4(){
 	printf("log_func4“);
 }
+int log_func5(){
+printf("log_func5");
+}
+int log_func6(){
+	printf("log_func6");
+}
+
+
