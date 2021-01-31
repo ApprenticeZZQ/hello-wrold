@@ -1,4 +1,5 @@
 int g_flag=1;
+bool g_abcd=false;
 
 
 #define USER_NAME_LEN 50
