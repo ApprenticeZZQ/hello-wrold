@@ -27,5 +27,7 @@ printf("log_func5");
 int log_func6(){
 	printf("log_func6");
 }
-
+int log_func7(){
+	printf("log_func7");
+}
 
