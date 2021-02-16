@@ -1,6 +1,6 @@
 int g_flag=1;
 bool g_abcd=false;
-
+int g_cdef=100;
 
 #define USER_NAME_LEN 50
 #define PASSWORD_LEN 50
